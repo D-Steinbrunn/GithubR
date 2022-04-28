@@ -1,0 +1,2 @@
+# GithubR
+get Rstudio connection
